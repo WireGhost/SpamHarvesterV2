@@ -11,6 +11,7 @@ Features:
 5.	Connection Management: Periodically checks the connection to the email server and tries to reconnect if the connection is lost.
 6.	Marking Messages as Read: Marks all scanned messages as read after scanning.
 7.	Preventing Duplicate Scans: Maintains a set of scanned URLs and skips URLs that have already been scanned to prevent unnecessary API calls and redundant scanning.
+
 Installation:
 You'll need to provide your own email server details and credentials, as well as your VirusTotal API key.
 
@@ -28,8 +29,11 @@ api_key = "VirusTotalAPI"  # replace with your VirusTotal API key
 
 Run the script in your Python environment. It will automatically connect to the email server, scan the emails, send the URLs for scanning, and export the results to 'addresses.csv':
 
+
+Syntax:
 python SpamHarvesterV2.py
 
+Note: Recommend running first through IDLE or similar after variables are defined.  
 
 Future Development:
 In the future, we aim to further enhance:
