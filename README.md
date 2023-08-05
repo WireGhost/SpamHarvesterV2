@@ -46,7 +46,7 @@ In the future, we aim to further enhance:
 
 4.	Integration with Email Reporting Services: After detecting a phishing or spam email, automatically report it to the email provider or relevant reporting services. This could help in the larger fight against spam and phishing.
 
-5.	Automated Response: Develop functionality that can take an automatic action upon detecting a threat. This could include moving the email to a separate folder, marking it as spam, or even deleting it.
+5.	Automated Response: Develop functionality that can take an automatic action upon detecting a threat. This could include moving the email to a separate folder, marking it as spam, sending to a quarantine folder, or optionally deleting it.
 
 6.	Interactive Dashboard: As development proceeds, creating an interactive dashboard to monitor and analyze the results. This could include various visualizations and charts to better understand the data.
 
@@ -58,7 +58,7 @@ In the future, we aim to further enhance:
 
 10.	Integration with Other Email Services: Currently designed to work with an IMAP server, we hope to extend its capabilities to support other email services, such as POP3 or even specific email providers like Gmail, Outlook, etc.
 
-11.	Scalability: With a large number of emails to analyze, there may be performance issues. Working to efficiently handle larger volumes of data could be a future goal.
+11.	Scalability: With a large number of emails to analyze, there may be performance issues. Working to efficiently handle larger volumes of data is a future goal.
 
 12.	Sandbox Analysis: For deeper analysis of URLs and attachments, integrating a sandbox environment. 
 
