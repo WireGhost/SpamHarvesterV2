@@ -1,4 +1,7 @@
 SpamHarvesterV2
+***7/2024 Now in process of creating a Flask WebApp VM on Ubuntu LTS, for PoC and interactive GUI 
+
+
 Additional enhancement build on the SpamHarvester script - Integrating URL scanning and reporting with Virus Total API 
 
 SpamHarvesterV2 is an enhanced version of the original SpamHarvester. This Python script extends the original's functionality to detect, analyze, and report on potential phishing URLs found in email messages.
