@@ -1,5 +1,6 @@
 SpamHarvesterV2
 ***7/2024 Now in process of creating a Flask WebApp VM on Ubuntu LTS, for PoC and interactive GUI 
+![image](https://github.com/user-attachments/assets/b150b683-5af1-4c1f-9e52-575b068fb2d3)
 
 
 Additional enhancement build on the SpamHarvester script - Integrating URL scanning and reporting with Virus Total API 
