@@ -1,5 +1,5 @@
 SpamHarvesterV2
-***7/2024 Now in process of creating a Flask WebApp VM on Ubuntu LTS, for PoC and interactive GUI 
+***1/2025 In process of creating a Flask WebApp VM on Ubuntu LTS, for PoC and interactive GUI, implementing Apache Cassandra-5.0.2 for backend database.  
 ![image](https://github.com/user-attachments/assets/b150b683-5af1-4c1f-9e52-575b068fb2d3)
 
 
